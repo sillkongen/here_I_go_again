@@ -40,6 +40,7 @@ cask "hot"
 cask "microsoft-auto-update"
 cask "microsoft-office"
 cask "reamp"
+cask "silicon"
 cask "vagrant"
 cask "visual-studio-code"
 mas "Adblock Plus", id: 1432731683

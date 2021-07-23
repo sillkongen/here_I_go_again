@@ -36,12 +36,10 @@ cask "android-platform-tools"
 cask "android-studio"
 cask "bitwarden"
 cask "docker"
-cask "foobar2000"
 cask "hot"
 cask "microsoft-auto-update"
 cask "microsoft-office"
 cask "reamp"
-cask "spotspot"
 cask "vagrant"
 cask "visual-studio-code"
 mas "Adblock Plus", id: 1432731683
@@ -59,11 +57,11 @@ mas "iMovie", id: 408981434
 mas "JSON Helper", id: 453114608
 mas "Keynote", id: 409183694
 mas "Levelator", id: 1493326487
-mas "Mirror My Screen", id: 1525556960
+mas "NDI Signal Generator", id: 1080186452
 mas "Numbers", id: 409203825
 mas "Outline", id: 1356178125
 mas "Pages", id: 409201541
 mas "Redis Server", id: 972359186
 mas "stts", id: 1187772509
-mas "TrackNote", id: 1525508303
+mas "Take Five", id: 424437399
 mas "WireGuard", id: 1451685025

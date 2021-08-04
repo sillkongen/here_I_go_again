@@ -40,12 +40,14 @@ brew "youtube-dl"
 brew "dart-lang/dart/dart"
 brew "fwartner/tap/mac-cleanup"
 brew "superfly/tap/flyctl"
+cask "abyssoft-teleport"
 cask "android-platform-tools"
 cask "android-studio"
 cask "appcleaner"
 cask "bitwarden"
 cask "chromium"
 cask "docker"
+cask "dropbox"
 cask "hot"
 cask "microsoft-auto-update"
 cask "microsoft-office"
@@ -55,6 +57,8 @@ cask "shuttle"
 cask "silicon"
 cask "spotspot"
 cask "stats"
+cask "superduper"
+cask "unnaturalscrollwheels"
 cask "vagrant"
 mas "Adblock Plus", id: 1432731683
 mas "BitcoinMonitor", id: 606957946
@@ -77,8 +81,10 @@ mas "NDI Signal Generator", id: 1080186452
 mas "Numbers", id: 409203825
 mas "Outline", id: 1356178125
 mas "Pages", id: 409201541
+mas "Password Manager Authenticator", id: 1548731575
 mas "Redis Server", id: 972359186
 mas "stts", id: 1187772509
+mas "Tailscale", id: 1475387142
 mas "Take Five", id: 424437399
 mas "TrackNote", id: 1525508303
 mas "WireGuard", id: 1451685025
